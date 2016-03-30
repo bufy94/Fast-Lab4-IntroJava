@@ -10,22 +10,19 @@ public class SkeletonJava {
 
     // GUI
     public static int readIntGUI(String label) {
-        String input = JOptionPane.showInputDialog(null,
-                label);
+        String input = JOptionPane.showInputDialog(null, label);
         int returnValue = Integer.parseInt(input);
         return returnValue;
     }
 
     public static double readDoubleGUI(String label) {
-        String input = JOptionPane.showInputDialog(null,
-                label);
+        String input = JOptionPane.showInputDialog(null, label);
         double returnValue = Double.parseDouble(input);
         return returnValue;
     }
 
     public static String readStringGUI(String label) {
-        String input = JOptionPane.showInputDialog(null,
-                label);
+        String input = JOptionPane.showInputDialog(null, label);
         return input;
     }
 
