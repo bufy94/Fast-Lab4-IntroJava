@@ -2,7 +2,7 @@ import javax.swing.*;
 import java.util.Scanner;
 
 /**
- * Created by icondor on 26/03/16.
+ * Created by icondor on 26/03/16. Din pc de la Ovidiu
  */
 public class SkeletonJava {
 
